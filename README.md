@@ -18,8 +18,8 @@ https://github.com/JakubBilski/nanoporeGPU
 Minimizing composite functions with gradient methods:
 https://github.com/JakubBilski/nesterov-gradient-methods
 
-Google cloud data pipeline for prediction of cryptocurrency prices based on number of tweets and reddit posts:
-https://github.com/JakubBilski/crypto-prediction-by-popularity
+Comparison of Hidden Markov Models and Fuzzy Cognitive Maps for Time Series Classification:
+https://github.com/JakubBilski/mini-fcm
 
 Comparison of CNN architectures for image recognition:
 https://github.com/JakubBrojacz/Convolutional-neural-network
