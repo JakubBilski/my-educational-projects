@@ -30,3 +30,5 @@ https://github.com/JakubBilski/nanoporeGPU
 Comparison of CNN architectures for image recognition:
 https://github.com/JakubBilski/Convolutional-neural-network
 
+Prediction of stock prices (GCP, Hadoop, Apache Spark, Apache Nifi, Twitter API):
+https://github.com/JakubBilski/crypto-prediction-by-popularity
